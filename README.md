@@ -11,7 +11,7 @@ This will install all the necessary node modules locally.
 In your terminal navigate to the folder where you cloned the repo. Here you can use following commands to work with the notes:
 
 # Add a note
-node app.js add --title="<your title here>" --body="Provide note body here"
+node app.js add --title="<your title here>" --body=<"Provide note body here>"
 
 # List all available notes
 node app.js list 
@@ -25,6 +25,10 @@ node app.js remove --title="<provide note title here>"
 # For help/help on a specific command
 node app.js --help/node app.js <command-name> --help
 
+# Contributing
+If you are a developer and you wish to contribute to the app please fork the project and submit a pull request if possible make it on the develop branch. You can send me an email if you have any questions.
+
+
 # License
-This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE.md file for details
+node-notes is licensed under the GNU v3 Public License. In addition to the terms set by the GNU v3 Public License, we ask that if you use any code from this repository that you send us a message to let us know.
 
