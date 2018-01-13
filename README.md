@@ -3,7 +3,9 @@ This is a notes app written in node and is executed in the terminal.
 # Getting Started
 
 To get started simply clone the repository. Make sure you have node installed on your machine. Then run:
+
 npm install
+
 This will install all the necessary node modules locally.
 
 In your terminal navigate to the folder where you cloned the repo. Here you can use following commands to work with the notes:
