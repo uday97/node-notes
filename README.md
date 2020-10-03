@@ -19,6 +19,9 @@ node app.js list
 # Read a specific note
 node app.js read --title="<provide note title here>"
 
+# Update a specific note
+node app.js update --title="<provide note title here>" --body=<"Provide note body here>"
+
 # Delete a specific note
 node app.js remove --title="<provide note title here>"
 
